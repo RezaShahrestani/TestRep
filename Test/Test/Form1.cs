@@ -20,6 +20,10 @@ namespace Test
         public void Hi()
         {
             string a = "hi";
+
+
+
+            //a
         }
     }
 }
